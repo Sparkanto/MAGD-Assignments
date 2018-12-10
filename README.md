@@ -2,7 +2,7 @@
 
 ## **Links to each of the assignments in order**
 
-[Assignment 1](MAGD-Assignments/AssignmentOne.pde)
+[Assignment 1](AssignmentOne.pde)
 
 [Assignment 2](MAGD-Assignments/AssignmentTwo.pde)
       
